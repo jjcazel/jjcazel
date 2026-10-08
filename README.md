@@ -6,6 +6,8 @@
 
 I like building useful products end to end, from the data model and API layer to the UI people actually use. Most of my recent work has been in TypeScript, React, Next.js, Node.js, PostgreSQL, and AI-powered product features.
 
+Most of my production work lives in private company repos, so what you see here is only a small sample of the systems and products I've built professionally.
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://jaredcazel.com)
 [![Email](https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjcazel@gmail.com)
 
