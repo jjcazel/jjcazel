@@ -4,7 +4,7 @@
 
 ### Senior Full-Stack Engineer · TypeScript · React · Next.js · AI
 
-I build thoughtful, high-leverage products from data model to interface — with a particular interest in AI-powered workflows, fast product iteration, and software people genuinely enjoy using.
+I like building useful products end to end, from the data model and API layer to the UI people actually use. Most of my recent work has been in TypeScript, React, Next.js, Node.js, PostgreSQL, and AI-powered product features.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://jjcazel.github.io)
 [![Email](https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjcazel@gmail.com)
@@ -13,20 +13,20 @@ I build thoughtful, high-leverage products from data model to interface — with
 
 ---
 
-### 🛠 What I build
+### 🛠 What I work on
 
-- **Full-stack product experiences** with TypeScript, React, Next.js, Node.js, PostgreSQL, and Prisma
-- **Production AI features** that turn LLM capabilities into useful, reliable workflows
-- **Data-heavy applications** with thoughtful APIs, caching, authentication, and clean UI
-- **0 → 1 products** where engineering, product judgment, and customer needs all meet
+- Full-stack product development with TypeScript, React, Next.js, Node.js, PostgreSQL, and Prisma
+- AI features that solve real product problems
+- APIs, data models, authentication, caching, and frontend UX
+- Early-stage products where I can own a feature from idea to production
 
-### ✨ A few things I care about
+### ✨ How I like to work
 
-**Clarity over cleverness.** I like systems that are easy to reason about, interfaces that feel obvious, and code that the next engineer can actually live with.
+I care about clear code, simple interfaces, and understanding the actual problem before reaching for a solution.
 
-**Product ownership.** My favorite work crosses boundaries: understanding the problem, shaping the solution, building it end to end, measuring what happened, and iterating.
+I enjoy owning work across the stack and working closely with product, design, customers, and other engineers.
 
-**AI as a tool, not a gimmick.** I'm interested in where AI meaningfully improves a workflow, especially when the surrounding product, data, and safety constraints are designed just as carefully as the model call.
+With AI, I am most interested in practical use cases where the model is only one part of a well-designed product.
 
 ### 🚀 Selected work
 
@@ -35,13 +35,13 @@ I build thoughtful, high-leverage products from data model to interface — with
 <td width="50%" valign="top">
 
 #### 🔐 [Family Vault AI](https://github.com/jjcazel/family-vault-ai)
-A private AI knowledge system exploring RAG, embeddings, semantic retrieval, encrypted document storage, and LLM-powered search.
+A private AI knowledge system using RAG, embeddings, semantic retrieval, encrypted document storage, and LLM-powered search.
 
 </td>
 <td width="50%" valign="top">
 
 #### 🎯 [Focus Mode](https://github.com/jjcazel/focus-mode-ext)
-A lightweight browser extension designed to reduce distraction and make focused work easier.
+A small browser extension built to reduce distraction and make focused work easier.
 
 </td>
 </tr>
@@ -49,13 +49,13 @@ A lightweight browser extension designed to reduce distraction and make focused 
 <td width="50%" valign="top">
 
 #### 🌦️ [Dynamic Weather App](https://github.com/jjcazel/Open-Weather-API-Dynamic-Weather-Web-App)
-A visual weather experience built around live API data and dynamic UI states.
+A weather app built with Next.js, TypeScript, React Query, Jotai, and the OpenWeather API.
 
 </td>
 <td width="50%" valign="top">
 
 #### ▶️ [ViewTube](https://github.com/jjcazel/ViewTube)
-A full-stack video platform project built with React and Rails, from an earlier chapter of my engineering journey.
+A full-stack video platform built with React, Rails, PostgreSQL, and AWS S3.
 
 </td>
 </tr>
@@ -75,14 +75,14 @@ A full-stack video platform project built with React and Rails, from an earlier 
 
 ### 🎻 A little more about me
 
-Before software, I spent years as a professional classical double bassist. That background still shapes how I work: prepare seriously, listen closely, collaborate well, and keep refining the details.
+Before software, I spent years as a professional classical double bassist. I still bring a lot of that mindset into engineering: preparation, listening, collaboration, and attention to detail.
 
-Away from the keyboard, you'll usually find me near the water, outside with my family, running, hiking, or training.
+Outside of work, I spend a lot of time with my family, near the water, running, hiking, and training.
 
 ---
 
 <div align="center">
 
-**Currently interested in:** AI product engineering · full-stack systems · agentic workflows · ambitious teams building useful things
+**Interested in:** full-stack product engineering · AI products · early-stage teams · useful software
 
 </div>
