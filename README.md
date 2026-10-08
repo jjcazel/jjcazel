@@ -6,7 +6,7 @@
 
 I like building useful products end to end, from the data model and API layer to the UI people actually use. Most of my recent work has been in TypeScript, React, Next.js, Node.js, PostgreSQL, and AI-powered product features.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://jjcazel.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://jaredcazel.com)
 [![Email](https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjcazel@gmail.com)
 
 </div>
@@ -52,12 +52,6 @@ A small browser extension built to reduce distraction and make focused work easi
 A weather app built with Next.js, TypeScript, React Query, Jotai, and the OpenWeather API.
 
 </td>
-<td width="50%" valign="top">
-
-#### ▶️ [ViewTube](https://github.com/jjcazel/ViewTube)
-A full-stack video platform built with React, Rails, PostgreSQL, and AWS S3.
-
-</td>
 </tr>
 </table>
 
@@ -83,6 +77,6 @@ Outside of work, I spend a lot of time with my family, near the water, running, 
 
 <div align="center">
 
-**Interested in:** full-stack product engineering · AI products · early-stage teams · useful software
+**Interested in:** full-stack product engineering · AI products · useful software
 
 </div>
